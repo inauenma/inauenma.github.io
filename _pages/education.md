@@ -16,7 +16,7 @@ MSc Robotics, Systems and Control, ETH Zurich, 2024
   <li>Developed a visual localization method using 2D floorplans instead of pre-collected image databases or 3D maps.</li>
   <li>Designed a model to predict a bird’s-eye view (BEV) of room layouts from images, leveraging probabilistic depth estimation for improved uncertainty handling. This BEV is then matched across the floorplan to predict a probaility distri</li>
   <li>Collected and curated a dataset of real indoor environments with semantically labeled floorplans to support evaluation and training.</li>
-  <span> <a href="../assets/files/master_thesis.pdf">Thesis</a> | <a href="../assets/files/master_thesis_presentation.pdf">Presentation</a>  </span>
+  <span> <a href="../files/master_thesis.pdf">Thesis</a> | <a href="../files/master_thesis_presentation.pdf">Presentation</a>  </span>
 </ul>
 </details>
 
@@ -25,7 +25,7 @@ MSc Robotics, Systems and Control, ETH Zurich, 2024
 Detection"</em> </summary>
 <ul>
   <li>blabla.</li>
-  <span> <a href="../assets/files/semester_project.pdf">Thesis</a> | <a href="../assets/files/semester_project_presentation.pdf">Presentation</a>  </span>
+  <span> <a href="../files/semester_project.pdf">Thesis</a> | <a href="../files/semester_project_presentation.pdf">Presentation</a>  </span>
 </ul>
 </details>
 
@@ -51,7 +51,7 @@ BSc Mechanical Engineering, ETH Zurich, 2021
 <summary> <strong>Bachelor Thesis:</strong> <em>"Object Detection and Grasp Planning with an Omnidirecitonal Aerial Manipulator"</em> </summary>
 <ul>
   <li>blabla.</li>
-  <span> <a href="../assets/files/bachelor_thesis.pdf">Thesis</a> | <a href="../assets/files/bachelor_thesis_presentation.pdf">Presentation</a>  </span>
+  <span> <a href="../files/bachelor_thesis.pdf">Thesis</a> | <a href="../files/bachelor_thesis_presentation.pdf">Presentation</a>  </span>
 </ul>
 </details>
 
