@@ -13,9 +13,9 @@ MSc Robotics, Systems and Control, ETH Zurich, 2024
 <details>
 <summary> <strong>Master Thesis:</strong> <em>"Visual Localization in 2D Floorplans"</em> </summary>
 <ul>
-  <li>Developed a visual localization method using 2D floorplans instead of pre-collected image databases or 3D maps.</li>
-  <li>Designed a model to predict a bird’s-eye view (BEV) of room layouts from images, leveraging probabilistic depth estimation for improved uncertainty handling. This BEV is then matched across the floorplan to predict a probaility distri</li>
-  <li>Collected and curated a dataset of real indoor environments with semantically labeled floorplans to support evaluation and training.</li>
+  <li>Collecting and constructing dataset for visual localization in 2D floorplans.</li>
+  <li>Building an entire pipeline for visual localization in indoor environment from 2D floorplans using image or image stream which eliminates the need to use pre-collected data for localization</li>
+  <li><em>Python, Pytorch, Point Clouds</em></li>
   <span> <a href="../files/master_thesis.pdf">Thesis</a> | <a href="../files/master_thesis_presentation.pdf">Presentation</a>  </span>
 </ul>
 </details>
@@ -24,7 +24,10 @@ MSc Robotics, Systems and Control, ETH Zurich, 2024
 <summary> <strong>Semester Thesis:</strong> <em>"Developement of a supervised Machine Learning Model for non-intrusive Occpuancy
 Detection"</em> </summary>
 <ul>
-  <li>blabla.</li>
+  <li>Developed and tested models to estimate room occupancy (number of people) using sensor data while addressing privacy concerns.</li>
+  <li>Improved model accuracy by extracting insights from CO₂ sensor data and refining low-performance areas.</li>
+  <li>Assessed model performance across different environments (domain adaptation) and explored potential improvements.</li>
+  <li><em>Python, Pandas, Scikit-learn</em></li>
   <span> <a href="../files/semester_project.pdf">Thesis</a> | <a href="../files/semester_project_presentation.pdf">Presentation</a>  </span>
 </ul>
 </details>
@@ -50,7 +53,10 @@ BSc Mechanical Engineering, ETH Zurich, 2021
 <details>
 <summary> <strong>Bachelor Thesis:</strong> <em>"Object Detection and Grasp Planning with an Omnidirecitonal Aerial Manipulator"</em> </summary>
 <ul>
-  <li>blabla.</li>
+  <li>Omnidirectional aerial manipulator with a robotic arm enabling precise grasping, transporting, and placing of objects.</li>
+  <li>Autonomous object detection and grasp planning using a color camera and depth sensor for indoor environments.</li>
+  <li>Validated in a simulation environment, achieving accurate and optimal grasp execution.</li>
+  <li><em>ROS, Gazebo, C++, Python</em></li>
   <span> <a href="../files/bachelor_thesis.pdf">Thesis</a> | <a href="../files/bachelor_thesis_presentation.pdf">Presentation</a>  </span>
 </ul>
 </details>

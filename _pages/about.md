@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! To find out more about my education and past projects check out the tabs on the top of the page.
+Hi there! To learn more about my education and past projects, explore the tabs at the top of the page.
